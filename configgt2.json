@@ -1,0 +1,145 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#869224714914537_869225758247766",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#869224714914537_869226944914314",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#869224714914537_869227048247637",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smart Watch Huawei GT2 Guide",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/x8ultra%2Fbannerx8.png?alt=media&token=73a109aa-84ae-42ff-876f-c35eaae6c596&_gl=1*ld0cua*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5Nzg5MTQ0MS40MC4xLjE2OTc4OTE1NjYuNjAuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Understanding the Huawei GT 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt1.jpg?alt=media&token=0ecc8c75-afcc-4b02-b28e-49fd0a47074a&_gl=1*11gsi7v*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU1NjQuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F1%20Understanding%20the%20Huawei%20GT%202.html?alt=media&token=5e469f7d-bb99-4f31-903f-463de3adbaf4&_gl=1*19x8fvj*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU1NTEuMTAuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Specifications Smart Watch Huawei GT 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt2.jpg?alt=media&token=d34392e9-9646-4f6d-b396-40dcf98368b4&_gl=1*jy1imf*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU1OTUuMjkuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F2%20Specifications%20Smart%20Watch%20Huawei%20GT%202.html?alt=media&token=a4a0a3f2-70c6-476f-ace4-d086c1113f95&_gl=1*13xqwxh*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU1ODIuNDIuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "How to Connect Smartwatch Huawei GT 2 to Android",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt3.jpg?alt=media&token=5d46f082-276d-427a-a466-4fb9bb0852dd&_gl=1*wfqkcm*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2MjMuMS4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F3%20How%20to%20Connect%20Smartwatch%20Huawei%20GT%202%20to%20Android.html?alt=media&token=84d93df1-1ed3-41f1-b310-316ea5db4958&_gl=1*i8ih5y*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2MTEuMTMuMC4w",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Unlocking the Power of Huawei GT 2 with iOS",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt4.jpg?alt=media&token=5eb68c41-8186-43f7-bc62-0c45cf2b6b3a&_gl=1*15dtehy*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2NTYuNDAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F4%20Unlocking%20the%20Power%20of%20Huawei%20GT%202%20with%20iOS.html?alt=media&token=4ed63f2b-e52d-4a66-b0a4-d1117bdaabcf&_gl=1*11pxhzd*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2NDAuNTYuMC4w",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Troubleshooting Huawei GT 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt5.JPG?alt=media&token=76265cd5-f92e-4c0a-b67e-c92474cf8d9c&_gl=1*nqdak8*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2ODguOC4wLjA.",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F5%20Troubleshooting%20Huawei%20GT%202.html?alt=media&token=a4811414-f4f0-4903-8a68-bf44b75f1c75&_gl=1*1kgo3yu*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU2NzQuMjIuMC4w",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Exploring the Advantages and Disadvantages of the Huawei GT 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt6.jpg?alt=media&token=571877dc-badf-4c48-a98e-95e86fc946c6&_gl=1*1oos51t*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3MTUuNDEuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F6%20Exploring%20the%20Advantages%20and%20Disadvantages%20of%20the%20Huawei%20GT%202.html?alt=media&token=d09b469e-4f42-47a0-88c9-88d2e4b08cac&_gl=1*fihdd3*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3MDEuNTUuMC4w",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "How To Use Huawei GT 2 On Water",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt7.jpg?alt=media&token=d4ae10d4-6883-4ae6-b2d2-6e4aeeee82c6&_gl=1*jn9xwp*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3NDUuMTEuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F7%20How%20To%20Use%20Huawei%20GT%202%20On%20Water.html?alt=media&token=a2eb564a-98e0-4720-92b6-ab8b188ce570&_gl=1*1fnih5z*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3MjkuMjcuMC4w",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "Use Calls Notification Control Music On Huawei GT 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt8.jpg?alt=media&token=886f8a02-ef43-42ce-bfad-fa558b29e18d&_gl=1*2n78ns*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3ODAuNDIuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F8%20Use%20Calls%20Notification%20Control%20Music%20On%20Huawei%20GT%202.html?alt=media&token=a07e2845-d1c8-4377-aec4-9904e4a2b4bf&_gl=1*qec3a4*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU3NjQuNTguMC4w",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Smart Watch Huawei GT2 Guide",
+      "title": "FAQ Huawei GT",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2Fgt9.jpg?alt=media&token=f47c21b2-7f14-40ce-8f57-58c247e0c287&_gl=1*1eoo83l*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU4MzQuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/gt2%2F9%20FAQ%20Huawei%20GT.html?alt=media&token=3dc7f846-309f-4f03-a453-83672d683ad8&_gl=1*1cfdvlu*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5ODMxNTIwMS40Mi4xLjE2OTgzMTU4MTYuNi4wLjA.",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
